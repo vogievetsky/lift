@@ -1,0 +1,25 @@
+{
+  "name": "lift",
+  "version": "0.0.1",
+  "description": "A lifter",
+  "keywords": [
+    "lift",
+    "function"
+  ],
+  "author": {
+    "name": "Vadim Ogievetsky",
+    "url": "http://vadim.ogievetsky.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vogievetsky/lift.git"
+  },
+  "main": "lift.js",
+  "devDependencies": {
+    "uglify-js": "1.2.3",
+    "nodeunit": "0.6.x"
+  },
+  "scripts": {
+    "test": "./node_modules/nodeunit/bin/nodeunit"
+  }
+}
