@@ -1,11 +1,12 @@
-# queue.js
+# lift.js
 
 **ADDING FUNTIONS TO NUMBERS ISN'T NORMAL.**
-                      **BUT ON LIFT IT IS.**
-----------------------------------------
+**BUT ON LIFT IT IS.**
+
                            LIFT
                            not even once
 
+---
 **Lift.js** is a tiny labrary for lifting functional aplication out of expressions.
 
 Imagine you have:
