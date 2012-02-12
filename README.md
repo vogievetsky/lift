@@ -8,7 +8,7 @@
                            not even once
 
 ---
-**Lift.js** is a tiny labrary for lifting functional aplication out of expressions.
+**Lift.js** is a tiny labrary for lifting functional application out of expressions.
 
 Imagine you have:
 
@@ -23,7 +23,7 @@ Wouldn't it be cool if you could write:
 var h = f + g;
 ```
 
-And get:
+To meen:
 
 ```js
 var h = function(x) { f(x) + g(x); };
