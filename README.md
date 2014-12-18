@@ -1,14 +1,6 @@
 # lift.js
 
-**ADDING FUNTIONS TO NUMBERS ISN'T NORMAL.**
-
-**BUT ON LIFT IT IS.**
-
-                           LIFT
-                           not even once
-
----
-**Lift.js** is a tiny labrary for lifting functional application out of expressions.
+**Lift.js** is a tiny library for lifting functional application out of expressions.
 
 Imagine you have:
 
@@ -23,7 +15,7 @@ Wouldn't it be cool if you could write:
 var h = f + g;
 ```
 
-To meen:
+To mean:
 
 ```js
 var h = function(x) { f(x) + g(x); };
